@@ -12,7 +12,9 @@ https://openrndr.org
 
 ![title slide](./slide0.avif)
 
-
+OPENRNDR is a free and open-source Kotlin-based framework for creative coding.
+It provides rendering, animation, interaction, and shader support to build
+real-time graphics, generative art, live visuals, and interactive installations.
 
 ## Slide 1 - Changelog
 
@@ -32,7 +34,7 @@ https://openrndr.org
 ![slide 2](./slide2.avif)
 
 - Variable type
-- New features, updates, fixes, and improvements
+- Exciting new features, updates, fixes, and improvements
 
 ## Presence at LGM
 
